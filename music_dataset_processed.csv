@@ -1,0 +1,768 @@
+musicId,title,artist,mood,mood_encoded,HR_simulated,Valence(mean),Arousal(mean),pcm_RMSenergy_sma_amean
+68,Do Re mi,Blackbear,Happy/Energetic,2,98.02816901408453,0.575,0.65,0.3158243
+438,"She's Mine, Pt. 2",J. Cole,Sad/Depressed,3,76.90140845070422,0.325,0.3375,0.1622352
+8,PRBLMS,6LACK,Sad/Depressed,3,80.28169014084507,0.225,0.3875,0.3069394
+334,My House,Flo Rida,Happy/Energetic,2,96.33802816901408,0.5625,0.625,0.09548601
+492,What Ifs,Kane Brown,Happy/Energetic,2,114.92957746478874,0.7875,0.9,0.2709241
+119,How Does A Moment Last Forever,Céline Dion,Calm/Relaxed,1,87.04225352112677,0.6625,0.4875,0.1492133
+181,Do You Mind,DJ Khaled,Calm/Relaxed,1,87.04225352112677,0.625,0.4875,0.3435674
+331,HandClap,Fitz,Happy/Energetic,2,111.54929577464787,0.8,0.85,0.3376480999999999
+394,You Don't Own Me,Grace,Happy/Energetic,2,104.7887323943662,0.675,0.75,0.2895047
+450,Lights Come On,Jason Aldean,Happy/Energetic,2,104.7887323943662,0.7625,0.75,0.2751815
+61,Moves,Big Sean,Sad/Depressed,3,79.43661971830986,0.275,0.375,0.3194545
+204,Evermore,Dan Stevens,Happy/Energetic,2,103.94366197183098,0.5875,0.7375,0.1640117999999999
+277,Sneakin’,Drake,Sad/Depressed,3,67.6056338028169,0.3875,0.2,0.3136143
+295,Small Town Boy,Dustin Lynch,Happy/Energetic,2,103.09859154929578,0.75,0.725,0.2178243
+477,Homecoming,Josh Ritter,Happy/Energetic,2,92.95774647887325,0.7125,0.575,0.3092917999999999
+99,Versace On The Floor,Bruno Mars,Happy/Energetic,2,100.56338028169014,0.6875,0.6875,0.2099902
+305,Still Falling For You,Ellie Goulding,Happy/Energetic,2,117.46478873239435,0.75,0.9375,0.2787209
+59,Jump Out the Window,Big Sean,Happy/Energetic,2,94.64788732394366,0.6,0.6,0.2425124
+150,Parachute,Chris Stapleton,Happy/Energetic,2,103.94366197183098,0.725,0.7375,0.1795225
+284,Views,Drake,Sad/Depressed,3,85.35211267605634,0.4875,0.4625,0.2178337
+98,That's What I Like,Bruno Mars,Happy/Energetic,2,103.94366197183098,0.65,0.7375,0.2276308999999999
+269,Passionfruit,Drake,Happy/Energetic,2,93.80281690140843,0.6375,0.5875,0.204238
+423,Believer,Imagine Dragons,Happy/Energetic,2,114.08450704225352,0.65,0.8875,0.2995162
+47,Suga Suga,Baby Bash,Sad/Depressed,3,81.12676056338029,0.4625,0.4,0.2195246
+144,Fix,Chris Lane,Happy/Energetic,2,112.3943661971831,0.825,0.8625,0.3266
+1,Good Drank,2 Chainz,Calm/Relaxed,1,81.12676056338029,0.575,0.4,0.1658793999999999
+162,Rockabye (feat. Sean Paul & Anne-Marie),Sean Paul,Happy/Energetic,2,113.2394366197183,0.7375,0.875,0.2708439
+249,Fake Love,Drake,Angry/Tense,0,90.4225352112676,0.45,0.5375,0.2186048
+408,Not Afraid Anymore,Halsey,Happy/Energetic,2,115.77464788732394,0.6125,0.9125,0.2377561
+413,Sign of the Times,Harry Styles,Happy/Energetic,2,92.95774647887325,0.675,0.575,0.2872664
+375,Good Life,G-Eazy,Happy/Energetic,2,103.94366197183098,0.775,0.7375,0.2950072
+180,I'm the One,DJ Khaled,Happy/Energetic,2,92.95774647887325,0.6875,0.575,0.2966288
+419,Higher Love,Hunter Plake,Sad/Depressed,3,60.0,0.225,0.0875,0.0383293
+142,01 Privacy,Chris Brown,Happy/Energetic,2,94.64788732394366,0.625,0.6,0.2177864999999999
+418,13 What a Beautiful Name (Acoustic),Hillsong Worship,Sad/Depressed,3,82.8169014084507,0.375,0.425,0.1934801
+97,Perm,Bruno Mars,Happy/Energetic,2,111.54929577464787,0.75,0.85,0.2539053
+224,Sneakin',Drake,Happy/Energetic,2,93.80281690140843,0.5,0.5875,0.2828448
+71,Every Time I Hear That Song,Blake Shelton,Happy/Energetic,2,105.6338028169014,0.5875,0.7625,0.2622419
+442,Hit or Miss - Jacob Sartorius,Jacob Sartorius,Happy/Energetic,2,102.25352112676056,0.6125,0.7125,0.2883442
+469,Head Over Boots,Jon Pardi,Happy/Energetic,2,102.25352112676056,0.7125,0.7125,0.2479694
+6,Red Opps,21 Savage,Angry/Tense,0,88.73239436619718,0.35,0.5125,0.2721982999999999
+209,Night's On Fire,David Nail,Happy/Energetic,2,100.56338028169014,0.775,0.6875,0.2785787
+391,Come Together,Godsmack,Happy/Energetic,2,111.54929577464787,0.6,0.85,0.2135618
+21,Faded,Alan Walker,Happy/Energetic,2,112.3943661971831,0.775,0.8625,0.2963515
+321,All the Way Up,Fat Joe,Angry/Tense,0,100.56338028169014,0.4875,0.6875,0.2292139
+379,Love On Me,Galantis,Happy/Energetic,2,117.46478873239435,0.9125,0.9375,0.3662520999999999
+285,Weston Road Flows,Drake,Happy/Energetic,2,88.73239436619718,0.525,0.5125,0.3103269
+382,She Sets The City On Fire,Gavin DeGraw,Happy/Energetic,2,114.00768245841128,0.863636363636,0.886363636364,0.2595857
+40,Beauty and the Beast,Ariana Grande,Calm/Relaxed,1,79.43661971830986,0.6625,0.375,0.157212
+79,Livin' On A Prayer,Bon Jovi,Happy/Energetic,2,116.61971830985917,0.625,0.925,0.1795792
+300,06-ed_sheeran-photograph,Ed Sheeran,Happy/Energetic,2,91.26760563380282,0.7625,0.55,0.2953869
+436,Neighbors,J. Cole,Sad/Depressed,3,70.98591549295774,0.35,0.25,0.1679055
+354,No Shopping,French Montana,Calm/Relaxed,1,77.74647887323943,0.5125,0.35,0.253346
+395,You Don't Own Me,Grace,Happy/Energetic,2,102.25352112676056,0.675,0.7125,0.2894526
+486,. Love Yourself,Justin Bieber,Calm/Relaxed,1,79.43661971830986,0.575,0.375,0.1302408
+166,Hypnotised,Coldplay,Happy/Energetic,2,96.33802816901408,0.575,0.625,0.3459785999999999
+280,Teenage Fever,Drake,Calm/Relaxed,1,76.05633802816902,0.525,0.325,0.2911632
+454,Love Make the World Go Round,Jennifer Lopez,Happy/Energetic,2,110.70422535211269,0.8125,0.8375,0.2719716
+460,Love Me Now,John Legend,Happy/Energetic,2,108.16901408450704,0.7,0.8,0.3536144
+488,You Look Like I Need A Drink,Justin Moore,Happy/Energetic,2,98.87323943661973,0.6,0.6625,0.3096652
+109,Heatstroke,Calvin Harris,Happy/Energetic,2,108.16901408450704,0.7875,0.8,0.284124
+414,Sweet Creature,Harry Styles,Happy/Energetic,2,93.26504481430986,0.545454545455,0.579545454545,0.2060465
+494,01 Champions,Kanye West,Angry/Tense,0,108.16901408450704,0.4625,0.8,0.3273481
+72,Go Ahead and Break My Heart,Blake Shelton,Happy/Energetic,2,104.7887323943662,0.6875,0.75,0.2787894
+210,Hide Away,Daya,Happy/Energetic,2,109.01408450704226,0.725,0.8125,0.2652153
+401,Make Love,Gucci Mane,Sad/Depressed,3,77.74647887323943,0.25,0.35,0.3863473
+411,Every Breath You Take (The Voice Performance),Hannah Huston,Calm/Relaxed,1,65.91549295774648,0.6375,0.175,0.199113
+185,I Got the Keys,DJ Khaled,Angry/Tense,0,98.87323943661973,0.475,0.6625,0.3679699
+33,Fresh Eyes,Andy Grammer,Happy/Energetic,2,97.1830985915493,0.75,0.6375,0.2996209
+43,One Last Time,Ariana Grande,Happy/Energetic,2,112.3943661971831,0.7875,0.8625,0.2832290999999999
+393,Saturnz Barz,Gorillaz,Angry/Tense,0,90.4225352112676,0.4625,0.5375,0.2656869
+273,Redemption,Drake,Sad/Depressed,3,76.90140845070422,0.3625,0.3375,0.1746829
+143,Holdin' Her,Chris Janson,Happy/Energetic,2,92.11267605633802,0.625,0.5625,0.2931949
+201,From the Ground Up,Dan + Shay,Happy/Energetic,2,96.33802816901408,0.6875,0.625,0.2794772
+316,Be Our Guest,Ewan McGregor,Happy/Energetic,2,114.08450704225352,0.8625,0.8875,0.2027911
+356,Unforgettable,French Montana,Calm/Relaxed,1,86.19718309859155,0.5625,0.475,0.2746625
+159,Tears (feat. Louisa Johnson),Clean Bandit,Happy/Energetic,2,113.2394366197183,0.675,0.875,0.325527
+368,Rent Money,Future,Happy/Energetic,2,94.64788732394366,0.575,0.6,0.2842038
+372,Zoom,Future,Angry/Tense,0,109.85915492957749,0.175,0.825,0.1233513999999999
+188,Key to the Streets(Chopped Not Slopped),DJ Slim K,Sad/Depressed,3,75.21126760563381,0.4,0.3125,0.2046734
+301,Shape of You,Ed Sheeran,Happy/Energetic,2,109.85915492957749,0.7875,0.825,0.3275976
+128,One Call Away,Charlie Puth,Happy/Energetic,2,88.73239436619718,0.6,0.5125,0.1296219
+198,Toothbrush,DNCE,Happy/Energetic,2,112.47119078102536,0.75,0.863636363636,0.2142479
+298,Castle on the Hill,Ed Sheeran,Happy/Energetic,2,103.09859154929578,0.7375,0.725,0.3296772999999999
+481,The Darkness,Joy Villa,Happy/Energetic,2,100.56338028169014,0.6125,0.6875,0.2411014
+136,Redbone,Childish Gambino,Happy/Energetic,2,96.33802816901408,0.525,0.625,0.1628079999999999
+493,Ain't No Stopping Us Now,Kane Brown,Happy/Energetic,2,103.94366197183098,0.75,0.7375,0.2758768
+65,Sweatshirt - Tribute to Jacob Sartorius,Billboard Masters,Happy/Energetic,2,93.80281690140843,0.75,0.5875,0.1647083999999999
+91,Slumber Party,Britney Spears,Happy/Energetic,2,112.3943661971831,0.7375,0.8625,0.3101314
+326,All In My Head (Flex),Fifth Harmony,Happy/Energetic,2,100.56338028169014,0.7,0.6875,0.2856417999999999
+207,Titanium (Feat. Sia),David Guetta,Happy/Energetic,2,111.54929577464787,0.7375,0.85,0.2150504
+349,Nights,Frank Ocean,Sad/Depressed,3,72.67605633802818,0.3375,0.275,0.1752621
+314,Record Year,Eric Church,Happy/Energetic,2,92.11267605633802,0.65,0.5625,0.209788
+102,A Holly Jolly Christmas,Burl Ives,Happy/Energetic,2,103.94366197183098,0.825,0.7375,0.1444527
+319,Keep Your Eyes On Me,Faith Hill,Happy/Energetic,2,103.94366197183098,0.5,0.7375,0.2544624
+366,Mask Off,Future,Sad/Depressed,3,71.83098591549296,0.2875,0.2625,0.3341925
+458,Woman,Jesse Larson,Happy/Energetic,2,104.7887323943662,0.7375,0.75,0.2664132
+39,Thief,Ansel Elgort,Happy/Energetic,2,113.2394366197183,0.590909090909,0.875,0.3387277999999999
+462,Love On The Weekend,John Mayer,Calm/Relaxed,1,81.97183098591549,0.65,0.4125,0.1276619
+81,Today,Brad Paisley,Happy/Energetic,2,95.49295774647888,0.7,0.6125,0.301142
+161,Symphony,Clean Bandit,Happy/Energetic,2,112.3943661971831,0.7125,0.8625,0.2440369999999999
+176,Shining,DJ Khaled,Happy/Energetic,2,102.25352112676056,0.65,0.7125,0.2933801
+168,Middle of a Memory,Cole Swindell,Happy/Energetic,2,102.25352112676056,0.625,0.7125,0.2727118
+388,home,Gnash,Happy/Energetic,2,92.95774647887325,0.7125,0.575,0.3135188
+294,Seein' Red,Dustin Lynch,Happy/Energetic,2,101.40845070422534,0.55,0.7,0.2627227
+318,Capsize,Emily Warren,Happy/Energetic,2,103.09859154929578,0.825,0.725,0.3158757
+437,"She's Mine, Pt. 1",J. Cole,Sad/Depressed,3,66.7605633802817,0.375,0.1875,0.1430062999999999
+293,Mind Reader,Dustin Lynch,Happy/Energetic,2,97.1830985915493,0.6375,0.6375,0.2626314
+398,P**** Print (feat. Kanye West),Kanye West,Sad/Depressed,3,83.66197183098592,0.4375,0.4375,0.2578981
+325,Wake Up,Fetty Wap,Calm/Relaxed,1,87.04225352112677,0.6125,0.4875,0.256671
+336,"God, Your Mama, And Me",Florida Georgia Line,Happy/Energetic,2,104.7887323943662,0.725,0.75,0.2899757
+448,A Little More Summertime,Jason Aldean,Happy/Energetic,2,106.47887323943662,0.7375,0.775,0.2986827
+103,LIFTED,CL,Happy/Energetic,2,93.80281690140843,0.775,0.5875,0.3454635
+153,Sober Saturday Night (feat. Vince Gill),Chris Young,Happy/Energetic,2,99.71830985915491,0.65,0.675,0.2648417
+232,Faithful,Drake,Sad/Depressed,3,81.97183098591549,0.475,0.4125,0.1217871
+203,When I Pray For You,Dan + Shay,Happy/Energetic,2,106.47887323943662,0.6875,0.775,0.2916387
+231,With You,Drake,Happy/Energetic,2,90.4225352112676,0.55,0.5375,0.1801424999999999
+134,Let Me Hold You (Turn Me On),Cheat Codes,Happy/Energetic,2,108.16901408450704,0.7125,0.8,0.2906768
+238,One Dance,Drake,Happy/Energetic,2,97.1830985915493,0.5625,0.6375,0.1808057
+426,Thunder,Imagine Dragons,Happy/Energetic,2,109.85915492957749,0.7125,0.825,0.3683422999999999
+323,Life Goes On,Fergie,Happy/Energetic,2,112.3943661971831,0.725,0.8625,0.3048465999999999
+376,Some Kind Of Drug,G-Eazy,Happy/Energetic,2,94.64788732394366,0.6625,0.6,0.248502
+440,everbody dies,J. Cole,Sad/Depressed,3,74.36619718309859,0.2875,0.3,0.1662866
+15,Lonesome Broken and Blue (The Voice Performance),Adam Wakefield,Happy/Energetic,2,95.49295774647888,0.6625,0.6125,0.288179
+360,Selfish,Future,Happy/Energetic,2,93.80281690140843,0.55,0.5875,0.2422195999999999
+427,Whatever It Takes,Imagine Dragons,Happy/Energetic,2,106.47887323943662,0.7,0.775,0.2916933
+35,True Colors,Anna Kendrick,Calm/Relaxed,1,76.90140845070422,0.625,0.3375,0.2375862
+468,Dirt On My Boots,Jon Pardi,Happy/Energetic,2,105.6338028169014,0.7875,0.7625,0.2531583
+160,Rockabye (feat. Sean Paul & Anne-Marie),Sean Paul,Happy/Energetic,2,109.85915492957749,0.8125,0.825,0.2708439
+367,New Level,Future,Angry/Tense,0,95.49295774647888,0.3125,0.6125,0.2924277999999999
+69,A Guy With a Girl,Blake Shelton,Happy/Energetic,2,102.25352112676056,0.775,0.7125,0.250057
+364,Draco,Future,Sad/Depressed,3,79.43661971830986,0.4,0.375,0.3131127
+353,It All Started with a Beer,Frankie Ballard,Happy/Energetic,2,89.5774647887324,0.5875,0.525,0.2435868
+439,Ville Mentality,J. Cole,Sad/Depressed,3,69.29577464788733,0.2625,0.225,0.165002
+94,Dance Like Me,Brooklyn and Bailey,Happy/Energetic,2,105.6338028169014,0.8,0.7625,0.2682762
+132,Everybody We Know Does,Chase Rice,Happy/Energetic,2,111.54929577464787,0.7125,0.85,0.3321676
+152,Think of You (Duet with Cassadee Pope),Chris Young,Happy/Energetic,2,109.85915492957749,0.725,0.825,0.3061336
+297,My Girl,Dylan Scott,Happy/Energetic,2,99.71830985915491,0.7,0.675,0.2240822
+424,Not Today,Imagine Dragons,Happy/Energetic,2,91.26760563380282,0.65,0.55,0.2844581
+70,Came Here to Forget,Blake Shelton,Happy/Energetic,2,92.95774647887325,0.525,0.575,0.2174202
+350,Nikes,Frank Ocean,Sad/Depressed,3,71.83098591549296,0.375,0.2625,0.1944808
+9,Timeless,A Boogie Wit Da Hoodie,Sad/Depressed,3,84.50704225352113,0.2875,0.45,0.3027805
+139,Party,Chris Brown,Happy/Energetic,2,102.25352112676056,0.775,0.7125,0.286594
+31,Caroline,Amine,Angry/Tense,0,96.33802816901408,0.4375,0.625,0.1643704
+83,The Weekend,Brantley Gilbert,Happy/Energetic,2,106.47887323943662,0.725,0.775,0.2271273999999999
+26,Wild Things(NuKid Remix),Alessia Cara,Happy/Energetic,2,109.85915492957749,0.7625,0.825,0.3161204999999999
+137,Money On You,Chris Blue,Happy/Energetic,2,105.6338028169014,0.7,0.7625,0.2845322999999999
+341,Smooth,Florida Georgia Line,Happy/Energetic,2,111.54929577464787,0.8,0.85,0.2536584
+362,Low Life (feat. The Weeknd),Future,Sad/Depressed,3,81.12676056338029,0.4625,0.4,0.2851723
+383,Careless Whisper,George Michael,Angry/Tense,0,87.88732394366197,0.4125,0.5,0.1106521999999999
+449,Any Ol' Barstool,Jason Aldean,Happy/Energetic,2,101.40845070422534,0.7375,0.7,0.29541
+117,Dirty Laundry,Carrie Underwood,Happy/Energetic,2,111.54929577464787,0.7,0.85,0.2760559
+405,Most Girls,Hailee Steinfeld,Happy/Energetic,2,103.94366197183098,0.7125,0.7375,0.2203227
+28,Not Easy,Alex Da Kid,Calm/Relaxed,1,87.04225352112677,0.575,0.4875,0.3410925
+292,Blow Your Mind (Mwah),Dua Lipa,Happy/Energetic,2,118.30985915492955,0.8625,0.95,0.2949757
+461,Changing,John Mayer,Calm/Relaxed,1,79.43661971830986,0.6375,0.375,0.1700002
+7,Girls Talk Boys,5 Seconds Of Summer,Happy/Energetic,2,101.40845070422534,0.725,0.7,0.2583221
+333,Cake,Flo Rida,Happy/Energetic,2,107.32394366197182,0.775,0.7875,0.3306209
+114,I Have Questions,Camila Cabello,Happy/Energetic,2,103.94366197183098,0.7375,0.7375,0.2166505
+252,Fire & Desire,Drake,Sad/Depressed,3,63.38028169014085,0.3625,0.1375,0.02255638
+381,No Money,Galantis,Happy/Energetic,2,117.46478873239435,0.8,0.9375,0.2810539999999999
+52,Might Not,Belly,Angry/Tense,0,93.80281690140843,0.4625,0.5875,0.2680082
+431,Deja Vu,J. Cole,Happy/Energetic,2,89.5774647887324,0.6375,0.525,0.2695619999999999
+435,Immortal,J. Cole,Sad/Depressed,3,72.67605633802818,0.35,0.275,0.2326590999999999
+229,No Long Talk,Drake,Sad/Depressed,3,84.50704225352113,0.4,0.45,0.2117703
+138,Take Me To the King,Chris Blue,Happy/Energetic,2,98.87323943661973,0.5875,0.6625,0.2303007999999999
+199,Shaky Shaky,Daddy Yankee,Happy/Energetic,2,107.32394366197182,0.6875,0.7875,0.278344
+120,No Problem,Chance The Rapper,Happy/Energetic,2,105.6338028169014,0.7625,0.7625,0.1058443
+385,Freedom! '90(Remastered),George Michael,Happy/Energetic,2,109.85915492957749,0.75,0.825,0.2207731
+389,I Hate U I Love U,Gnash,Sad/Depressed,3,69.29577464788733,0.3625,0.225,0.0789274
+443,American Country Love Song,Jake Owen,Happy/Energetic,2,101.40845070422534,0.675,0.7,0.2828219999999999
+476,Feliz Navidad,José Feliciano,Happy/Energetic,2,101.40845070422534,0.8625,0.7,0.131833
+44,Forever Country,Artists Of Then,Happy/Energetic,2,100.56338028169014,0.675,0.6875,0.2766909
+228,KMT,Drake,Angry/Tense,0,91.26760563380282,0.425,0.55,0.1319039
+304,America's Sweetheart,Elle King,Happy/Energetic,2,114.92957746478874,0.7375,0.9,0.2941327
+20,We're In This Love Together,Al Jarreau,Happy/Energetic,2,91.26760563380282,0.6375,0.55,0.06384799
+244,Childs Play,Drake,Sad/Depressed,3,73.52112676056338,0.4125,0.2875,0.2516063
+410,Now Or Never,Halsey,Angry/Tense,0,101.40845070422534,0.45,0.7,0.3025705999999999
+433,Foldin Clothes,J. Cole,Calm/Relaxed,1,78.59154929577466,0.5,0.3625,0.1513306
+302,Thinking Out Loud,Ed Sheeran,Happy/Energetic,2,87.88732394366197,0.575,0.5,0.1342149
+483,Ain't Nothing,Juicy J,Happy/Energetic,2,92.95774647887325,0.5125,0.575,0.2952492
+287,Body,Dreezy,Happy/Energetic,2,87.88732394366197,0.6875,0.5,0.185586
+337,May We All,Florida Georgia Line,Happy/Energetic,2,99.71830985915491,0.8125,0.675,0.2477189
+463,Moving On and Getting Over,John Mayer,Calm/Relaxed,1,74.36619718309859,0.5625,0.3,0.1364535
+104,Dancing On My Own(Ben Dooks Remix),Calum Scott,Happy/Energetic,2,110.70422535211269,0.825,0.8375,0.2939432
+296,You're Welcome,Dwayne Johnson,Happy/Energetic,2,109.01408450704226,0.8,0.8125,0.2092477
+299,How Would You Feel (Paean),Ed Sheeran,Calm/Relaxed,1,70.98591549295774,0.65,0.25,0.2817442
+313,Kill a Word,Eric Church,Happy/Energetic,2,90.4225352112676,0.6625,0.5375,0.2053603
+307,Hurts,Emeli Sandé,Happy/Energetic,2,114.92957746478874,0.575,0.9,0.2338397999999999
+361,Comin Out Strong,Future,Happy/Energetic,2,95.49295774647888,0.55,0.6125,0.2954855999999999
+170,The Scientist,Corinne Bailey Rae,Calm/Relaxed,1,74.36619718309859,0.6,0.3,0.1761103
+343,Say It,Flume,Happy/Energetic,2,98.02816901408453,0.55,0.65,0.2341933999999999
+428,Did You See,J Hus,Calm/Relaxed,1,87.04225352112677,0.5625,0.4875,0.1903158999999999
+13,Weak,AJR,Happy/Energetic,2,109.85915492957749,0.5875,0.825,0.286437
+420,Mo Bounce,Iggy Azalea,Happy/Energetic,2,106.47887323943662,0.55,0.775,0.2240607
+115,La Bicicleta,Carlos Vives,Happy/Energetic,2,108.16901408450704,0.8,0.8,0.3045981
+5,No Heart,21 Savage,Sad/Depressed,3,64.22535211267606,0.2,0.15,0.2628623
+191,Let Me Love You,DJ Snake,Happy/Energetic,2,105.6338028169014,0.825,0.7625,0.2377313
+196,Cash Me Outside (#CashmeOutside),DJ Suede The Remix God,Sad/Depressed,3,83.66197183098592,0.3625,0.4375,0.2644841
+32,Rise Up,Andra Day,Angry/Tense,0,92.95774647887325,0.3875,0.575,0.2220259
+38,Ciao Adios,Anne-Marie,Happy/Energetic,2,114.08450704225352,0.8375,0.8875,0.3078493
+56,Blessings,Big Sean,Sad/Depressed,3,81.97183098591549,0.275,0.4125,0.1321975
+396,If the Boot Fits,Granger Smith,Happy/Energetic,2,98.02816901408453,0.7125,0.65,0.2169312
+197,DNCE - Cake By The Ocean (From ＂Grease Live!＂ Music From The Television Event),Various Artists,Sad/Depressed,3,76.90140845070422,0.4375,0.3375,0.194877
+251,Feel No Ways,Drake,Sad/Depressed,3,83.27784891163944,0.4659090909089999,0.431818181818,0.2410598
+279,Summer Sixteen,Drake,Sad/Depressed,3,78.59154929577466,0.4625,0.3625,0.2999866
+445,Safe Inside,James Arthur,Angry/Tense,0,93.80281690140843,0.4625,0.5875,0.2588751999999999
+230,Glow,Drake,Calm/Relaxed,1,78.59154929577466,0.7375,0.3625,0.08975457
+60,Light,Big Sean,Sad/Depressed,3,82.50960307301409,0.409090909091,0.420454545455,0.2253354
+84,Rockin' Around The Christmas Tree (Re-Recorded Version),²¼Â×´ï.Àî(Brenda Lee),Happy/Energetic,2,87.88732394366197,0.8,0.5,0.08718201
+258,Hype,Drake,Angry/Tense,0,99.71830985915491,0.475,0.675,0.2265546
+75,Rabbit Hole,Blink-182,Happy/Energetic,2,119.1549295774648,0.7375,0.9625,0.2883832
+447,Let It Go,James Bay,Happy/Energetic,2,93.80281690140843,0.6,0.5875,0.2121824999999999
+78,Jingle Bell Rock,韩国群星,Happy/Energetic,2,87.88732394366197,0.659090909091,0.5,0.1442415
+457,oui,Jeremih,Happy/Energetic,2,98.87323943661973,0.7875,0.6625,0.235452
+127,Attention,Charlie Puth,Happy/Energetic,2,109.01408450704226,0.825,0.8125,0.3123795
+234,Portland,Drake,Sad/Depressed,3,80.28169014084507,0.4375,0.3875,0.1982011
+339,H.O.L.Y,Florida Georgia Line,Happy/Energetic,2,103.09859154929578,0.7875,0.725,0.2913544
+187,OTW (Remix),DJ Luke Nasty,Happy/Energetic,2,101.40845070422534,0.675,0.7,0.1621425
+50,Fight For Your Right,Beastie Boys,Happy/Energetic,2,110.70422535211269,0.5875,0.8375,0.1701581
+55,No Favors,Big Sean,Angry/Tense,0,96.33802816901408,0.4,0.625,0.2450812
+260,Jorja Interlude,Drake,Sad/Depressed,3,85.35211267605634,0.3,0.4625,0.2138308
+386,My Boo,Ghost Town DJ's,Happy/Energetic,2,92.11267605633802,0.5875,0.5625,0.1925317
+348,Ivy,Frank Ocean,Sad/Depressed,3,85.35211267605634,0.3,0.4625,0.1946984
+397,Both,Gucci Mane,Sad/Depressed,3,84.50704225352113,0.3375,0.45,0.273219
+49,Good Grief,Bastille,Happy/Energetic,2,107.32394366197182,0.7125,0.7875,0.2686877
+479,Get Your Freedom,Joy Villa,Sad/Depressed,3,69.29577464788733,0.3875,0.225,0.1155385999999999
+169,You Should Be Here,Cole Swindell,Happy/Energetic,2,99.71830985915491,0.6,0.675,0.2927618
+212,Body Say,Demi Lovato,Happy/Energetic,2,98.87323943661973,0.6,0.6625,0.3574425
+216,Different for Girls,Dierks Bentley,Happy/Energetic,2,98.02816901408453,0.6625,0.65,0.2622813
+146,Driving Home For Christmas (2003),¿ËÀïË¹ÀûÑÇ(Chris Rea),Happy/Energetic,2,98.87323943661973,0.7375,0.6625,0.2685688
+329,That's My Girl,Fifth Harmony,Happy/Energetic,2,117.46478873239435,0.7875,0.9375,0.2866431
+4,X Bitch (feat. Future),21 Savage,Sad/Depressed,3,71.83098591549296,0.2875,0.2625,0.3196559
+283,U With Me?,Drake,Happy/Energetic,2,92.95774647887325,0.5375,0.575,0.1992168
+484,Issues,Julia Michaels,Happy/Energetic,2,99.71830985915491,0.625,0.675,0.2591459
+312,DUELE EL CORAZON,Enrique Iglesias,Happy/Energetic,2,110.70422535211269,0.7875,0.8375,0.2997797
+485,. Company,Justin Bieber,Happy/Energetic,2,102.25352112676056,0.7,0.7125,0.287075
+90,Make Me...,Britney Spears,Angry/Tense,0,98.02816901408453,0.4875,0.65,0.2695588
+451,If It Ain't Love,Jason Derulo,Happy/Energetic,2,114.92957746478874,0.8375,0.9,0.2599454
+25,Scars To Your Beautiful,Alessia Cara,Happy/Energetic,2,105.55697823305916,0.784090909091,0.761363636364,0.2536971
+171,Ain't Giving Up,Craig David,Happy/Energetic,2,111.54929577464787,0.8125,0.85,0.2943126
+221,On My Mind,Disciples,Happy/Energetic,2,109.01408450704226,0.7,0.8125,0.2850702
+172,BROCCOLI,D.R.A.M.,Happy/Energetic,2,97.1830985915493,0.625,0.6375,0.260596
+303,Mr. Blue Sky (Album Version),Electric Light Orchestra,Happy/Energetic,2,103.94366197183098,0.6125,0.7375,0.1451749
+306,Step Into Christmas,Elton John,Happy/Energetic,2,106.47887323943662,0.875,0.775,0.2232306
+332,The Chain,Fleetwood Mac,Happy/Energetic,2,105.6338028169014,0.725,0.7625,0.1745536
+470,Perfect Strangers,JP Cooper,Happy/Energetic,2,105.6338028169014,0.85,0.7625,0.2652897999999999
+253,Free Smoke,Drake,Happy/Energetic,2,95.49295774647888,0.525,0.6125,0.2015852
+338,Confession,Florida Georgia Line,Happy/Energetic,2,109.85915492957749,0.7125,0.825,0.2401149
+48,Do They Know It's Christmas?,Band Aid 20,Happy/Energetic,2,103.09859154929578,0.8375,0.725,0.233359
+106,Slide,Calvin Harris,Happy/Energetic,2,101.40845070422534,0.675,0.7,0.2798332
+220,Somewhere on a Beach,Dierks Bentley,Happy/Energetic,2,100.56338028169014,0.675,0.6875,0.2682294
+116,Church Bells,Carrie Underwood,Happy/Energetic,2,114.92957746478874,0.7625,0.9,0.3237105
+403,Want You Back,HAIM,Happy/Energetic,2,105.6338028169014,0.8125,0.7625,0.3120521
+16,When I Call Your Name (The Voice Performance),Adam Wakefield,Happy/Energetic,2,90.4225352112676,0.575,0.5375,0.2599059999999999
+17,Hello,Adele,Happy/Energetic,2,109.85915492957749,0.675,0.825,0.313015
+213,Panda (#PANDATO Version),Desiigner,Angry/Tense,0,92.11267605633802,0.3625,0.5625,0.2060462999999999
+490,Liability,KLOE,Happy/Energetic,2,109.85915492957749,0.6875,0.825,0.2805442
+156,Change,Christina Aguilera,Happy/Energetic,2,98.87323943661973,0.55,0.6625,0.2432695
+239,Ice Melts,Drake,Happy/Energetic,2,96.33802816901408,0.6875,0.625,0.2665489
+12,We The People....,A Tribe Called Quest,Happy/Energetic,2,100.56338028169014,0.575,0.6875,0.2954645
+135,Me and your Mama,Childish Gambino,Angry/Tense,0,103.94366197183098,0.4,0.7375,0.1809119
+417,Make You Mine,High Valley,Happy/Energetic,2,112.3943661971831,0.775,0.8625,0.3321085
+491,Way Down We Go,Kaleo,Angry/Tense,0,92.95774647887325,0.4375,0.575,0.3039339
+126,We Don't Talk Anymore,Charlie Puth,Happy/Energetic,2,101.40845070422534,0.7,0.7,0.253479
+327,Work From Home,Fifth Harmony,Happy/Energetic,2,105.6338028169014,0.7375,0.7625,0.2829514
+86,Somethin' I'm Good At,Brett Eldredge,Happy/Energetic,2,101.40845070422534,0.725,0.7,0.1968849
+167,Flatliner (feat. Dierks Bentley),Cole Swindell,Happy/Energetic,2,114.08450704225352,0.775,0.8875,0.3358299
+158,Johnny B. Goode,Chuck Berry,Happy/Energetic,2,103.09859154929578,0.7875,0.725,0.1037167
+200,"Wat U Mean (Aye, Aye, Aye)",Dae Dae,Happy/Energetic,2,101.40845070422534,0.5625,0.7,0.2324724
+66,It Don't Hurt Like It Used To,Billy Currington,Happy/Energetic,2,112.3943661971831,0.7625,0.8625,0.2734287
+147,Broken Halos,Chris Stapleton,Happy/Energetic,2,91.26760563380282,0.65,0.55,0.1911655
+157,Tilted,Christine and the Queens,Happy/Energetic,2,90.19206145967324,0.6818181818179999,0.534090909091,0.2389802999999999
+275,Since Way Back,Drake,Sad/Depressed,3,76.90140845070422,0.4125,0.3375,0.2592324
+355,Lockjaw,French Montana,Sad/Depressed,3,84.50704225352113,0.325,0.45,0.2078419
+222,The Sound Of Silence,Disturbed,Angry/Tense,0,98.87323943661973,0.35,0.6625,0.2130471
+123,The Only One Who Gets Me,Charles Kelley,Sad/Depressed,3,75.21126760563381,0.4875,0.3125,0.2031967
+237,Pop Style,Drake,Angry/Tense,0,89.5774647887324,0.3125,0.525,0.2319792999999999
+466,All Time Low (explicit),Jon Bellion,Happy/Energetic,2,98.02816901408453,0.7375,0.65,0.1617529
+227,Jumpman,Drake,Sad/Depressed,3,86.19718309859155,0.425,0.475,0.2132517
+317,Be Our Guest,Ewan McGregor,Happy/Energetic,2,116.61971830985917,0.8625,0.925,0.2027911
+478,Hometown Girl,Josh Turner,Happy/Energetic,2,98.02816901408453,0.675,0.65,0.2575192999999999
+236,4422,Drake,Sad/Depressed,3,75.21126760563381,0.3,0.3125,0.184556
+241,9,Drake,Happy/Energetic,2,89.5774647887324,0.5625,0.525,0.2536037
+76,Is This Love (Extended Mix),Bob Marley,Happy/Energetic,2,97.1830985915493,0.65,0.6375,0.2591636
+399,Back On Road,Drake,Angry/Tense,0,95.49295774647888,0.45,0.6125,0.2144558999999999
+455,Ain't Your Mama,Jennifer Lopez,Happy/Energetic,2,113.2394366197183,0.7375,0.875,0.2927349
+54,Brand New,Ben Rector,Happy/Energetic,2,113.2394366197183,0.775,0.875,0.2414211
+23,How Far I'll Go(Alessia Cara Version),Alessia Cara,Happy/Energetic,2,96.33802816901408,0.675,0.625,0.2300328999999999
+219,Drunk On A Plane,Dierks Bentley,Happy/Energetic,2,110.70422535211269,0.75,0.8375,0.2630908
+93,Broadway+For+Orlando,Various Artists,Happy/Energetic,2,95.49295774647888,0.65,0.6125,0.1675058
+148,Either Way,Chris Stapleton,Calm/Relaxed,1,81.12676056338029,0.5,0.4,0.1034828
+165,Hymn For The Weekend,Coldplay,Happy/Energetic,2,103.94366197183098,0.675,0.7375,0.2488739999999999
+186,Shining,DJ Khaled,Happy/Energetic,2,109.85915492957749,0.7125,0.825,0.2579395
+192,Turn Down for What,DJ Snake,Happy/Energetic,2,117.46478873239435,0.5375,0.9375,0.3146173
+215,Tiimmy Turner,Desiigner,Happy/Energetic,2,89.5774647887324,0.5125,0.525,0.3613956
+267,Nothings Into Somethings,Drake,Sad/Depressed,3,72.67605633802818,0.35,0.275,0.209365
+446,Say You Won't Let Go,James Arthur,Sad/Depressed,3,82.8169014084507,0.4875,0.425,0.2108919
+124,After The Afterparty,Charli XCX,Happy/Energetic,2,114.92957746478874,0.8375,0.9,0.2838612
+96,24K Magic,Bruno Mars,Happy/Energetic,2,113.2394366197183,0.825,0.875,0.2468327
+145,For Her,Chris Lane,Happy/Energetic,2,105.6338028169014,0.75,0.7625,0.2570958
+211,"Sit Still, Look Pretty",Daya,Happy/Energetic,2,98.02816901408453,0.65,0.65,0.2929183
+441,September Song,JP Cooper,Happy/Energetic,2,99.71830985915491,0.6875,0.675,0.3137075
+465,Ain't No Grave (Album Version),Johnny Cash,Sad/Depressed,3,76.90140845070422,0.425,0.3375,0.1966491
+18,Send My Love (To Your New Lover),Adele,Happy/Energetic,2,108.16901408450704,0.8375,0.8,0.2607807
+149,Fire Away,Chris Stapleton,Sad/Depressed,3,80.28169014084507,0.2625,0.3875,0.1911361
+315,Bring Me To Life,Evanescence,Happy/Energetic,2,111.54929577464787,0.65,0.85,0.2407436999999999
+37,Alarm,Anne-Marie,Happy/Energetic,2,108.16901408450704,0.75,0.8,0.3093276
+113,Crying In The Club,Camila Cabello,Happy/Energetic,2,104.7887323943662,0.7125,0.75,0.3340993
+452,You Don't Know Me,Jax Jones,Happy/Energetic,2,98.02816901408453,0.7375,0.65,0.2168543999999999
+133,No Promises,Cheat Codes,Happy/Energetic,2,106.47887323943662,0.7375,0.775,0.2417596
+402,Hollaback Girl,Gwen Stefani,Happy/Energetic,2,111.54929577464787,0.6875,0.85,0.2969443
+407,Eyes Closed,Halsey,Happy/Energetic,2,107.32394366197182,0.5625,0.7875,0.3226579
+456,Unlove You,Jennifer Nettles,Happy/Energetic,2,101.40845070422534,0.525,0.7,0.2601578
+489,justin timberlake - can't stop the feeling! (original song from dreamworks animation’s “trolls”),Justin Timberlake,Happy/Energetic,2,115.54417413572958,0.7954545454549999,0.909090909091,0.2565161
+189,Middle(4B Remix),DJ Snake,Happy/Energetic,2,100.56338028169014,0.6375,0.6875,0.15229
+482,Vagabonds,Joy Villa,Happy/Energetic,2,91.72855313699156,0.568181818182,0.556818181818,0.2312306
+73,She's Got a Way With Words,Blake Shelton,Happy/Energetic,2,90.4225352112676,0.6875,0.5375,0.23722
+57,Bounce Back,Big Sean,Angry/Tense,0,89.5774647887324,0.3625,0.525,0.3063885
+105,Dancing on My Own,Calum Scott,Sad/Depressed,3,72.67605633802818,0.3875,0.275,0.1663624
+347,Chanel,Frank Ocean,Sad/Depressed,3,66.7605633802817,0.3375,0.1875,0.2164933999999999
+434,For Whom the Bell Tolls,J. Cole,Angry/Tense,0,88.73239436619718,0.3875,0.5125,0.173406
+235,Too Good,Drake,Calm/Relaxed,1,84.50704225352113,0.7,0.45,0.1784805
+88,In Case You Didn't Know,Brett Young,Happy/Energetic,2,96.33802816901408,0.5875,0.625,0.20342
+242,Blem,Drake,Happy/Energetic,2,96.33802816901408,0.6125,0.625,0.2611653
+412,I Call the Shots (The Voice Performance),Hannah Huston,Angry/Tense,0,87.88732394366197,0.4375,0.5,0.2168447999999999
+444,If He Ain't Gonna Love You,Jake Owen,Happy/Energetic,2,103.94366197183098,0.7625,0.7375,0.2603765
+107,Rollin,Calvin Harris,Happy/Energetic,2,94.64788732394366,0.6125,0.6,0.2751343
+257,Gyalchester,Drake,Sad/Depressed,3,81.97183098591549,0.3125,0.4125,0.3344347
+342,Never Be Like You,Flume,Happy/Energetic,2,104.7887323943662,0.6875,0.75,0.2559157999999999
+429,4 Your Eyez Only,J. Cole,Sad/Depressed,3,69.29577464788733,0.4,0.225,0.1867648999999999
+108,This Is What You Came For,Calvin Harris,Happy/Energetic,2,112.3943661971831,0.8625,0.8625,0.3148579
+310,Something There,Emma Watson,Calm/Relaxed,1,81.12676056338029,0.675,0.4,0.1312494
+309,Infinite,Eminem,Sad/Depressed,3,77.74647887323943,0.3875,0.35,0.1591496
+177,For Free,DJ Khaled,Happy/Energetic,2,91.26760563380282,0.5375,0.55,0.266051
+179,I Got the Keys,DJ Khaled,Angry/Tense,0,103.94366197183098,0.3125,0.7375,0.3679699
+487,. Sorry,Justin Bieber,Happy/Energetic,2,108.16901408450704,0.775,0.8,0.3400873
+89,Sleep Without You,Brett Young,Happy/Energetic,2,100.56338028169014,0.75,0.6875,0.2064348
+140,Back To Sleep,Chris Brown,Happy/Energetic,2,92.11267605633802,0.65,0.5625,0.2941745
+30,Somewhere (The Voice Performance),Alisan Porter,Happy/Energetic,2,95.49295774647888,0.5375,0.6125,0.249862
+265,Madiba Riddim,Drake,Happy/Energetic,2,88.73239436619718,0.675,0.5125,0.3162441
+370,Super Trapper,Future,Sad/Depressed,3,81.12676056338029,0.25,0.4,0.2742405
+175,Too Much Sauce,Future,Sad/Depressed,3,86.19718309859155,0.45,0.475,0.2959812
+92,Make Me...,Britney Spears,Happy/Energetic,2,98.02816901408453,0.575,0.65,0.2695588
+151,Tennessee Whiskey,Chris Stapleton,Calm/Relaxed,1,76.05633802816902,0.6125,0.325,0.1480486
+174,Wishing,DJ Drama,Calm/Relaxed,1,86.35083226634367,0.534090909091,0.477272727273,0.2641154
+184,Holy Key,DJ Khaled,Happy/Energetic,2,109.85915492957749,0.6375,0.825,0.2718597
+217,Black,Dierks Bentley,Happy/Energetic,2,95.49295774647888,0.575,0.6125,0.2913736
+19,Water Under The Bridge,Adele,Happy/Energetic,2,105.6338028169014,0.75,0.7625,0.2571626
+141,chris brown - grass ain't greener,Chris Brown,Happy/Energetic,2,90.4225352112676,0.65,0.5375,0.1870923
+29,Down That Road (The Voice Performance),Alisan Porter,Happy/Energetic,2,101.40845070422534,0.675,0.7,0.2497175
+233,Controlla,Drake,Sad/Depressed,3,81.12676056338029,0.4875,0.4,0.2191588
+373,"Me, Myself & I",Bebe Rexha,Happy/Energetic,2,111.54929577464787,0.725,0.85,0.2894527
+80,Without a Fight,Brad Paisley,Happy/Energetic,2,103.09859154929578,0.7625,0.725,0.2175083
+42,Dangerous Woman,Ariana Grande,Happy/Energetic,2,105.6338028169014,0.6,0.7625,0.2699018
+14,I’m Sorry,Adam Wakefield,Happy/Energetic,2,92.11267605633802,0.575,0.5625,0.2773172
+51,I Got You,Bebe Rexha,Happy/Energetic,2,109.85915492957749,0.7625,0.825,0.2848332
+100,Don't,Bryson Tiller,Sad/Depressed,3,65.91549295774648,0.3,0.175,0.09638894
+358,Wicked Version,Future Pigeon,Calm/Relaxed,1,80.28169014084507,0.6875,0.3875,0.1745051
+308,Love The Way You Lie,Eminem,Happy/Energetic,2,109.01408450704226,0.85,0.8125,0.2275746
+409,Not Afraid Anymore,Halsey,Happy/Energetic,2,115.77464788732394,0.6625,0.9125,0.2377561
+58,Halfway Off the Balcony,Big Sean,Sad/Depressed,3,71.83098591549296,0.25,0.2625,0.218954
+67,River,Bishop Briggs,Happy/Energetic,2,108.16901408450704,0.5875,0.8,0.2490872
+432,False Prophets,J. Cole,Sad/Depressed,3,79.43661971830986,0.4,0.375,0.1506079
+324,M.I.L.F. $,Fergie,Happy/Energetic,2,114.08450704225352,0.55,0.8875,0.2538121
+472,Mama,Jonas Blue,Happy/Energetic,2,95.49295774647888,0.6625,0.6125,0.2394376
+202,How Not To,Dan + Shay,Happy/Energetic,2,111.54929577464787,0.7625,0.85,0.2963292999999999
+225,Get It Together,Drake,Calm/Relaxed,1,81.97183098591549,0.525,0.4125,0.2257175
+10,Drowning,A Boogie Wit Da Hoodie,Sad/Depressed,3,83.66197183098592,0.425,0.4375,0.2530027999999999
+34,It's the Most Wonderful Time of the Year,Andy Williams,Happy/Energetic,2,100.56338028169014,0.8375,0.6875,0.132429
+87,Wanna Be That Song,Brett Eldredge,Happy/Energetic,2,98.87323943661973,0.6,0.6625,0.2481905999999999
+421,Team(Young Bombs Remix),Iggy Azalea,Happy/Energetic,2,111.54929577464787,0.725,0.85,0.3380404
+63,Owe Me,Big Sean,Sad/Depressed,3,79.43661971830986,0.4625,0.375,0.2483147
+282,"Two Birds, One Stone",Drake,Happy/Energetic,2,90.4225352112676,0.525,0.5375,0.2695568
+276,Skepta Interlude,Drake,Happy/Energetic,2,98.02816901408453,0.5125,0.65,0.2973128
+74,Bored To Death,Blink 182,Happy/Energetic,2,114.08450704225352,0.775,0.8875,0.2449011
+351,Pink + White,Frank Ocean,Calm/Relaxed,1,72.67605633802818,0.55,0.275,0.2331183
+415,Guys My Age(Stripped),Hey Violet,Calm/Relaxed,1,86.35083226634367,0.5227272727269999,0.477272727273,0.1598542
+425,Radioactive,Imagine Dragons,Happy/Energetic,2,118.30985915492955,0.8125,0.95,0.373694
+46,Rolex,Ayo & Teo,Happy/Energetic,2,110.70422535211269,0.575,0.8375,0.3395813
+263,Keep The Family Close,Drake,Sad/Depressed,3,81.97183098591549,0.35,0.4125,0.2141799
+471,By Your Side,Jonas Blue,Happy/Energetic,2,113.2394366197183,0.7875,0.875,0.2632824
+480,I Make the Static,Joy Villa,Happy/Energetic,2,107.32394366197182,0.6375,0.7875,0.212292
+623,Country Girl (Shake It For Me),Luke Bryan,Happy/Energetic,2,111.54929577464787,0.775,0.85,0.2742961
+656,Cold,Maroon 5,Sad/Depressed,3,87.04225352112677,0.4125,0.4875,0.2273916
+734,I'm Stuck,Noah Cyrus,Happy/Energetic,2,110.70422535211269,0.825,0.8375,0.2251774
+578,Lust for Life,Lana Del Rey,Calm/Relaxed,1,85.35211267605634,0.625,0.4625,0.1792368
+622,Mama Said,Lukas Graham,Happy/Energetic,2,109.01408450704226,0.675,0.8125,0.2618433999999999
+682,Even If,MercyME,Happy/Energetic,2,106.47887323943662,0.6125,0.775,0.3125558
+501,Chained To The Rhythm,Katy Perry,Happy/Energetic,2,110.70422535211269,0.8125,0.8375,0.2476255
+571,Paparazzi,Lady GaGa,Happy/Energetic,2,98.87323943661973,0.725,0.6625,0.2483407
+816,Make You Miss Me(Acoustic Mixtape),Sam Hunt,Sad/Depressed,3,74.36619718309859,0.425,0.3,0.2738415999999999
+613,BRANDY,Looking Glass,Happy/Energetic,2,93.80281690140843,0.6875,0.5875,0.1793556
+694,Get Right Witcha,Migos,Sad/Depressed,3,80.28169014084507,0.3375,0.3875,0.2040433999999999
+746,We Know The Way,Opetaia Foa'i,Happy/Energetic,2,98.87323943661973,0.7875,0.6625,0.2123946
+812,Thumbs,Sabrina Carpenter,Happy/Energetic,2,108.16901408450704,0.6875,0.8,0.313498
+683,It's Beginning To Look A Lot Like Christmas,Michael Bublé,Calm/Relaxed,1,70.14084507042253,0.7375,0.2375,0.148154
+888,02 Wish I Knew You,The Revivalists,Happy/Energetic,2,99.71830985915491,0.675,0.675,0.2103036
+546,Crank It (Woah!)(Radio Edit),Kideko,Happy/Energetic,2,107.32394366197182,0.575,0.7875,0.2361098
+548,Gold,Kiiara,Calm/Relaxed,1,84.50704225352113,0.55,0.45,0.2080208999999999
+612,Flexicution,Logic,Sad/Depressed,3,85.35211267605634,0.375,0.4625,0.162823
+918,Die A Happy Man,Thomas Rhett,Calm/Relaxed,1,81.12676056338029,0.6375,0.4,0.1845525
+649,Once,Maren Morris,Sad/Depressed,3,83.66197183098592,0.3125,0.4375,0.2710597
+799,Sledgehammer,Rihanna,Happy/Energetic,2,105.6338028169014,0.5375,0.7625,0.2932836
+833,"Stitches(From ""Dance Camp"" Original Motion Picture Soundtrack)",Shawn Mendes,Happy/Energetic,2,108.16901408450704,0.7,0.8,0.2259882999999999
+698,What the Price,Migos,Sad/Depressed,3,78.59154929577466,0.2625,0.3625,0.1989782
+662,Scared To Be Lonely,Martin Garrix,Happy/Energetic,2,99.71830985915491,0.525,0.675,0.1706491
+818,THat Part,Schoolboy Q,Sad/Depressed,3,72.67605633802818,0.1375,0.275,0.1761446
+629,Jump,Lupe Fiasco,Happy/Energetic,2,102.25352112676056,0.5625,0.7125,0.2939837999999999
+754,Hard Times,Paramore,Happy/Energetic,2,98.02816901408453,0.8,0.65,0.1994022
+500,Swish Swish,Katy Perry,Angry/Tense,0,101.40845070422534,0.425,0.7,0.3102588
+570,Million Reasons,Lady Gaga,Happy/Energetic,2,103.94366197183098,0.5375,0.7375,0.2428968
+549,09 Conscience (feat. Future),Kodak Black,Sad/Depressed,3,83.66197183098592,0.3125,0.4375,0.3217435999999999
+733,Make Me (Cry),Noah Cyrus,Happy/Energetic,2,87.88732394366197,0.6,0.5,0.2522664
+928,Text from Your Ex,Tinie Tempah,Happy/Energetic,2,110.70422535211269,0.825,0.8375,0.249282
+535,Setting the World On Fire,Kenny Chesney,Happy/Energetic,2,105.6338028169014,0.7875,0.7625,0.3246408
+844,Find Me,Sigma,Happy/Energetic,2,107.32394366197182,0.75,0.7875,0.2427093
+505,Distraction,Kehlani,Happy/Energetic,2,98.02816901408453,0.6125,0.65,0.2403509
+551,Tunnel Vision,Kodak Black,Sad/Depressed,3,73.52112676056338,0.375,0.2875,0.3611174
+668,False Alarm,Matoma,Happy/Energetic,2,103.09859154929578,0.65,0.725,0.1502976
+670,When Christmas Comes Around,Matt Terry,Sad/Depressed,3,77.74647887323943,0.425,0.35,0.1583497
+761,Greenlight,Pitbull,Happy/Energetic,2,106.47887323943662,0.7875,0.775,0.2258267
+572,Perfect Illusion,Lady Gaga,Happy/Energetic,2,103.94366197183098,0.525,0.7375,0.2486322
+820,Five More Minutes,Scotty McCreery,Happy/Energetic,2,98.87323943661973,0.6,0.6625,0.2451586
+677,The Difference (feat. Quavo),Meek Mill,Angry/Tense,0,92.11267605633802,0.3625,0.5625,0.3313738
+850,Kush Ups,Snoop Dogg,Happy/Energetic,2,106.47887323943662,0.6125,0.775,0.3288566
+911,Six Feet Under,The Weeknd,Angry/Tense,0,89.5774647887324,0.3875,0.525,0.2765958
+704,Malibu,Miley Cyrus,Happy/Energetic,2,96.33802816901408,0.7,0.625,0.201498
+924,Speak to a Girl,Tim Mcgraw,Happy/Energetic,2,95.49295774647888,0.65,0.6125,0.2427931
+585,That Don't Sound Like You,Lee Brice,Angry/Tense,0,89.5774647887324,0.4625,0.525,0.1292404
+741,Hate U Love U,Olivia O'Brien,Sad/Depressed,3,86.19718309859155,0.425,0.475,0.2353053
+881,All Eyez (Feat. Jeremih),The Game,Happy/Energetic,2,93.80281690140843,0.6,0.5875,0.2287804
+514,Peter Pan,Kelsea Ballerini,Happy/Energetic,2,111.54929577464787,0.75,0.85,0.217792
+517,XXX.,Kendrick Lamar,Sad/Depressed,3,71.83098591549296,0.425,0.2625,0.1834846
+652,Down,Marian Hill,Happy/Energetic,2,91.26760563380282,0.675,0.55,0.1759888
+739,Snapback,Old Dominion,Happy/Energetic,2,100.56338028169014,0.6875,0.6875,0.2669117
+829,Hips Don't Lie (2006 FIFA World Cup Mix),Shakira,Happy/Energetic,2,108.16901408450704,0.8125,0.8,0.2366824
+775,Purple Rain (LP Version),Prince,Sad/Depressed,3,76.90140845070422,0.475,0.3375,0.1354251
+516,LOYALTY.,Kendrick Lamar,Sad/Depressed,3,81.12676056338029,0.4625,0.4,0.1199885
+630,Sweet Home Alabama,Lynyrd Skynyrd,Happy/Energetic,2,98.02816901408453,0.775,0.65,0.1199368
+732,Hasta el Amanecer,Nicky Jam,Happy/Energetic,2,97.1830985915493,0.6125,0.6375,0.1498157
+929,You Want Me,Tom Zanetti,Angry/Tense,0,94.64788732394366,0.3375,0.6,0.2771599
+569,Born This Way,Lady Gaga,Happy/Energetic,2,101.40845070422534,0.65,0.7,0.1856823
+661,In The Name Of Love,Bebe Rexha,Happy/Energetic,2,97.1830985915493,0.55,0.6375,0.2088337
+900,Die For You,The Weeknd,Happy/Energetic,2,98.02816901408453,0.5375,0.65,0.3283958
+922,Sunshine (Radio Edit),Various Artists,Happy/Energetic,2,105.6338028169014,0.7375,0.7625,0.2589161
+504,Kehlani - CRZY,Kehlani,Happy/Energetic,2,99.71830985915491,0.675,0.675,0.2117386
+839,California Dreamin',Sia,Happy/Energetic,2,104.7887323943662,0.625,0.75,0.2099172999999999
+755,Wonderful Christmastime [Edited Version],Paul McCartney,Happy/Energetic,2,88.73239436619718,0.625,0.5125,0.1345381
+809,Lost Boy,Ruth B,Calm/Relaxed,1,66.7605633802817,0.65,0.1875,0.09150584
+552,This Girl (Kungs Vs. Cookin' On 3 Burners),Kungs,Happy/Energetic,2,111.54929577464787,0.8125,0.85,0.273368
+564,Just Dance(Richard Vission Remix),Lady GaGa,Angry/Tense,0,114.92957746478874,0.475,0.9,0.2470969
+679,Me Too (Live At Macy's 4th of July),Various Artists,Happy/Energetic,2,101.40845070422534,0.6,0.7,0.08538587
+788,Skin,Rag'N'Bone Man,Happy/Energetic,2,95.49295774647888,0.525,0.6125,0.2071135
+635,Pretty Girl,Maggie Lindemann,Happy/Energetic,2,97.1830985915493,0.825,0.6375,0.1935286
+801,Chill Bill,Rob $tone,Sad/Depressed,3,76.90140845070422,0.2875,0.3375,0.2907833
+890,All Night,The Vamps,Happy/Energetic,2,107.32394366197182,0.7875,0.7875,0.2254907
+603,No More Sad Songs,Little Mix,Happy/Energetic,2,109.01408450704226,0.7125,0.8125,0.3227851
+906,Party Monster,The Weeknd,Sad/Depressed,3,76.05633802816902,0.4375,0.325,0.1304002
+978,Castaway,Zac Brown Band,Happy/Energetic,2,100.56338028169014,0.725,0.6875,0.2024336
+628,One Number Away,Luke Combs,Happy/Energetic,2,95.49295774647888,0.625,0.6125,0.2545752
+783,Look Alive,Rae Sremmurd,Sad/Depressed,3,86.19718309859155,0.45,0.475,0.292834
+567,Applause,Lady GaGa,Happy/Energetic,2,113.2394366197183,0.825,0.875,0.2635622
+758,Pen Pineapple Apple Pen,Piko-Taro,Happy/Energetic,2,110.70422535211269,0.625,0.8375,0.2271513
+660,Alone (Original Mix),Marshmello,Happy/Energetic,2,110.70422535211269,0.825,0.8375,0.3244158
+815,Drinkin' Too Much (8pm),Sam Hunt,Sad/Depressed,3,73.52112676056338,0.3125,0.2875,0.1135113
+859,At Last,Sundance Head,Happy/Energetic,2,93.80281690140843,0.725,0.5875,0.2773708
+689,Kelly Price,Migos,Sad/Depressed,3,82.8169014084507,0.35,0.425,0.1890779
+584,Boy,Lee Brice,Sad/Depressed,3,79.43661971830986,0.4625,0.375,0.05720473
+997,A Supplementary Story : You Never Walk Alone,방탄소년단,Happy/Energetic,2,102.25352112676056,0.6625,0.7125,0.2539735
+760,Messin' Around,Pitbull,Happy/Energetic,2,107.32394366197182,0.7375,0.7875,0.2902902
+842,Helium,Sia,Angry/Tense,0,94.64788732394366,0.35,0.6,0.2562364
+967,Law,Yo Gotti,Happy/Energetic,2,99.71830985915491,0.5125,0.675,0.2365794
+773,Let's Go Crazy (LP Version),Prince,Happy/Energetic,2,104.7887323943662,0.65,0.75,0.124388
+798,Needed Me,Rihanna,Happy/Energetic,2,103.94366197183098,0.6,0.7375,0.1879631
+857,Big For Your Boots,Stormzy,Angry/Tense,0,99.71830985915491,0.2125,0.675,0.2757332
+605,Shout Out to My Ex,Little Mix,Happy/Energetic,2,117.46478873239435,0.875,0.9375,0.3229671
+710,Final Song,MØ,Happy/Energetic,2,107.32394366197182,0.775,0.7875,0.2852655
+925,How I'll Always Be,Tim Mcgraw,Happy/Energetic,2,93.80281690140843,0.6125,0.5875,0.2414788
+921,Vacation,Thomas Rhett,Calm/Relaxed,1,86.19718309859155,0.5625,0.475,0.2081953999999999
+796,Trap Trap Trap,Rick Ross,Angry/Tense,0,94.64788732394366,0.375,0.6,0.3055353
+868,Closer,The Chainsmokers,Happy/Energetic,2,101.40845070422534,0.625,0.7,0.2576909
+539,Don't Mind,Kent Jones,Happy/Energetic,2,95.49295774647888,0.65,0.6125,0.2387806
+594,Peek A Boo,Lil Yachty,Angry/Tense,0,88.73239436619718,0.4375,0.5125,0.2592199
+607,I Know Somebody,Locash,Happy/Energetic,2,102.25352112676056,0.6375,0.7125,0.2860551
+778,Fight Song,Rachel Platten,Happy/Energetic,2,115.77464788732394,0.8125,0.9125,0.3036796
+996,Trouble,offaiah,Happy/Energetic,2,113.2394366197183,0.5625,0.875,0.2571222
+722,Bacon,Nick Jonas,Happy/Energetic,2,92.95774647887325,0.65,0.575,0.2095047
+824,Kill Em With Kindness,Selena Gomez,Happy/Energetic,2,112.3943661971831,0.825,0.8625,0.2907942999999999
+981,Never Forget You,MNEK,Happy/Energetic,2,108.16901408450704,0.6,0.8,0.2675350999999999
+588,Strip That Down,Liam Payne,Happy/Energetic,2,101.40845070422534,0.775,0.7,0.2994295
+566,Alejandro,Lady GaGa,Happy/Energetic,2,106.47887323943662,0.725,0.775,0.2371849999999999
+678,Mom,Meghan Trainor,Happy/Energetic,2,107.32394366197182,0.8625,0.7875,0.2185224
+993,Stay,Zedd,Happy/Energetic,2,112.3943661971831,0.7625,0.8625,0.2488721
+542,Promise,KiD Ink,Happy/Energetic,2,102.25352112676056,0.6125,0.7125,0.2650883
+786,Human,Rag'N'Bone Man,Angry/Tense,0,103.09859154929578,0.45,0.725,0.2747120999999999
+847,Merry Xmas Everybody,Various Artists,Happy/Energetic,2,88.73239436619718,0.7625,0.5125,0.2356407999999999
+861,Giants,Take That,Happy/Energetic,2,105.6338028169014,0.7625,0.7625,0.2525115
+871,Setting Fires,The Chainsmokers,Happy/Energetic,2,104.7887323943662,0.65,0.75,0.276896
+965,Why You Always Hatin?,YG,Happy/Energetic,2,87.88732394366197,0.5375,0.5,0.2113929999999999
+828,Chantaje,Shakira,Happy/Energetic,2,98.02816901408453,0.6,0.65,0.2993322
+531,PRIDE.,Kendrick Lamar,Sad/Depressed,3,69.29577464788733,0.3,0.225,0.2059286
+643,Felices los 4,Maluma,Happy/Energetic,2,91.26760563380282,0.5875,0.55,0.2870440999999999
+793,Dark Necessities,Red Hot Chili Peppers,Happy/Energetic,2,102.25352112676056,0.6375,0.7125,0.2657723
+595,One Night (Extended),Lil Yachty,Sad/Depressed,3,80.28169014084507,0.4,0.3875,0.1783201
+653,Return Of The Mack,Various Artists©,Happy/Energetic,2,92.95774647887325,0.6625,0.575,0.1818226
+742,Grow Up,Olly Murs,Happy/Energetic,2,103.09859154929578,0.725,0.725,0.3028258
+855,Just Hold On,Steve Aoki,Happy/Energetic,2,113.2394366197183,0.775,0.875,0.2748649
+753,Death Of A Bachelor,Panic! At The Disco,Happy/Energetic,2,105.6338028169014,0.625,0.7625,0.341744
+699,The Ocean,Mike Perry,Happy/Energetic,2,102.25352112676056,0.775,0.7125,0.2089511
+634,Uber Everywhere,MadeinTYO,Sad/Depressed,3,69.29577464788733,0.2375,0.225,0.1031723
+958,I Wish It Could Be Christmas Everyday,Wizzard,Happy/Energetic,2,109.85915492957749,0.8625,0.825,0.1796614
+728,Changed It,Nicki Minaj,Sad/Depressed,3,83.66197183098592,0.275,0.4375,0.2070157
+555,It Ain't Me,Kygo,Happy/Energetic,2,105.6338028169014,0.6875,0.7625,0.247864
+948,No Limit [dirty],Usher,Sad/Depressed,3,87.04225352112677,0.4,0.4875,0.2639647
+587,Hallelujah((Album Version),Leonard Cohen,Calm/Relaxed,1,80.28169014084507,0.6,0.3875,0.1017105
+880,Glad All Over,The Dave Clark Five,Happy/Energetic,2,99.71830985915491,0.5375,0.675,0.2080174
+617,Despacito,Luis Fonsi,Happy/Energetic,2,114.08450704225352,0.8125,0.8875,0.2921325999999999
+726,Jealous,Nick Jonas,Happy/Energetic,2,103.94366197183098,0.7125,0.7375,0.2858817
+743,You Don't Know Love,Olly Murs,Happy/Energetic,2,111.54929577464787,0.725,0.85,0.3058903
+659,She Will Be Loved,Maroon 5,Sad/Depressed,3,80.28169014084507,0.375,0.3875,0.2268022999999999
+835,Treat You Better,Shawn Mendes,Happy/Energetic,2,98.87323943661973,0.6125,0.6625,0.2704680999999999
+813,Now and Later,Sage the Gemini,Happy/Energetic,2,99.71830985915491,0.675,0.675,0.2760305999999999
+536,Bar at the End of the World,Kenny Chesney,Happy/Energetic,2,107.32394366197182,0.825,0.7875,0.3141157
+720,Close,Nick Jonas,Happy/Energetic,2,103.94366197183098,0.6375,0.7375,0.2400586
+731,El Amante,Nicky Jam,Happy/Energetic,2,100.56338028169014,0.7,0.6875,0.2343462
+747,Just Like Fire,P!NK,Happy/Energetic,2,108.16901408450704,0.775,0.8,0.2279423
+821,No Lie,Sean Paul,Happy/Energetic,2,107.32394366197182,0.75,0.7875,0.3595394
+980,Roots,Zac Brown Band,Happy/Energetic,2,97.1830985915493,0.725,0.6375,0.2134724
+525,GOD.,Kendrick Lamar,Sad/Depressed,3,70.14084507042253,0.275,0.2375,0.1234961
+834,There's Nothing Holdin' Me Back,Shawn Mendes,Happy/Energetic,2,114.08450704225352,0.8125,0.8875,0.2802113
+913,Stargirl Interlude,The Weeknd,Sad/Depressed,3,77.74647887323943,0.275,0.35,0.1858147
+532,The Heart Part 4,Kendrick Lamar,Angry/Tense,0,90.4225352112676,0.3375,0.5375,0.1471987
+736,Cut It (feat. Young Dolph),O.T. Genasis,Sad/Depressed,3,87.04225352112677,0.4125,0.4875,0.2459208
+763,Hey There Delilah (Bonus),Plain White T's,Calm/Relaxed,1,80.28169014084507,0.55,0.3875,0.3072809
+718,This Town,Niall Horan,Happy/Energetic,2,88.73239436619718,0.5875,0.5125,0.2843483
+774,Little Red Corvette,Prince,Happy/Energetic,2,97.1830985915493,0.75,0.6375,0.1375961
+836,The Greatest,Sia,Happy/Energetic,2,114.08450704225352,0.7875,0.8875,0.3077064
+837,Cheap Thrills,Sia,Happy/Energetic,2,103.94366197183098,0.725,0.7375,0.2295349
+952,Running Back (feat. Lil Wayne),Lil Wayne,Angry/Tense,0,89.5774647887324,0.4875,0.525,0.2483041
+945,02 - Stressed Out,Twenty One Pilots,Happy/Energetic,2,99.71830985915491,0.575,0.675,0.1947029
+631,Bad Things,Machine Gun Kelly,Happy/Energetic,2,91.26760563380282,0.5625,0.55,0.3251563
+708,Get Ur Freak On,Missy Elliott,Happy/Energetic,2,98.87323943661973,0.5875,0.6625,0.242063
+597,Heavy,Linkin Park,Happy/Energetic,2,108.16901408450704,0.7,0.8,0.2410534
+780,Black Beatles,Rae Sremmurd,Angry/Tense,0,88.73239436619718,0.4375,0.5125,0.3040324
+884,Ophelia,The Lumineers,Happy/Energetic,2,102.25352112676056,0.7625,0.7125,0.2466034999999999
+671,Litty (feat. Tory Lanez),Meek Mill,Angry/Tense,0,99.71830985915491,0.4125,0.675,0.2938724
+507,8,Keith Urban,Happy/Energetic,2,108.16901408450704,0.6625,0.8,0.2740439
+589,03 Money Longer,Lil Uzi Vert,Angry/Tense,0,91.26760563380282,0.4875,0.55,0.2608719
+520,DNA.,Kendrick Lamar,Angry/Tense,0,98.87323943661973,0.15,0.6625,0.3442496
+792,Back to God,Reba McEntire,Happy/Energetic,2,111.54929577464787,0.625,0.85,0.2513945999999999
+616,So Good,Louisa Johnson,Happy/Energetic,2,112.3943661971831,0.7875,0.8625,0.2465909
+926,Humble and Kind,Tim Mcgraw,Sad/Depressed,3,70.98591549295774,0.4875,0.25,0.1431811
+625,"Huntin', Fishin' and Lovin' Every Day",Luke Bryan,Happy/Energetic,2,104.7887323943662,0.65,0.75,0.2909503
+636,Red Dress,Magic!,Happy/Energetic,2,105.6338028169014,0.75,0.7625,0.2624022
+727,No Frauds,Nicki Minaj,Angry/Tense,0,91.26760563380282,0.475,0.55,0.2478842
+860,Darlin' Don't Go,Sundance Head,Happy/Energetic,2,99.71830985915491,0.6375,0.675,0.2580711
+934,Beibs in the Trap,Travis Scott,Sad/Depressed,3,87.04225352112677,0.3875,0.4875,0.2625229
+665,Solo Dance,Martin Jensen,Happy/Energetic,2,104.7887323943662,0.75,0.75,0.2383887
+794,We Turn Red,Red Hot Chili Peppers,Happy/Energetic,2,92.95774647887325,0.575,0.575,0.3227757
+969,YOUNG MA - OOOUUU (intro),Young M.a.,Angry/Tense,0,88.73239436619718,0.175,0.5125,0.1439484
+738,No Such Thing as a Broken Heart,Old Dominion,Happy/Energetic,2,93.80281690140843,0.7125,0.5875,0.2595313
+804,Shed A Light,David Guetta,Happy/Energetic,2,99.71830985915491,0.65,0.675,0.2426159
+895,Sidewalks,The Weeknd,Happy/Energetic,2,97.1830985915493,0.5125,0.6375,0.2291452
+767,Congratulations,Post Malone,Calm/Relaxed,1,86.19718309859155,0.5125,0.475,0.2846856
+784,Swang,Rae Sremmurd,Sad/Depressed,3,84.50704225352113,0.35,0.45,0.288258
+575,The Edge Of Glory (Lady Gaga Tribute) - Instrumental,Pure Music,Happy/Energetic,2,109.85915492957749,0.7875,0.825,0.2614417999999999
+592,Sucker For Pain,Lil Wayne,Sad/Depressed,3,81.97183098591549,0.4125,0.4125,0.1620315
+989,Juju On That Beat (TZ Anthem),Zay Hilfigerrr,Angry/Tense,0,92.95774647887325,0.3125,0.575,0.2233851
+916,On Hold,The xx,Sad/Depressed,3,68.45070422535211,0.3375,0.2125,0.2378902999999999
+943,Ride,Twenty One Pilots,Angry/Tense,0,96.33802816901408,0.4875,0.625,0.1006646
+803,Love My Life,Robbie Williams,Happy/Energetic,2,100.56338028169014,0.75,0.6875,0.2217252999999999
+645,You & Me,Marc E. Bassy,Happy/Energetic,2,94.64788732394366,0.6125,0.6,0.1865602999999999
+808,What They Want,Russ,Sad/Depressed,3,76.05633802816902,0.25,0.325,0.1439345
+814,Body Like A Back Road,Sam Hunt,Happy/Energetic,2,102.25352112676056,0.7375,0.7125,0.2221183
+846,Purple Lamborghini,Skrillex,Happy/Energetic,2,116.61971830985917,0.5375,0.925,0.388905
+999,Outro : Wings,방탄소년단,Happy/Energetic,2,113.2394366197183,0.775,0.875,0.2955781
+499,Bon Appétit,Katy Perry,Happy/Energetic,2,112.3943661971831,0.825,0.8625,0.2845877
+600,Girl Crush,Little Big Town,Calm/Relaxed,1,81.97183098591549,0.65,0.4125,0.192715
+519,BLOOD.,Kendrick Lamar,Sad/Depressed,3,77.74647887323943,0.2625,0.35,0.05956319
+521,DUCKWORTH.,Kendrick Lamar,Angry/Tense,0,88.73239436619718,0.375,0.5125,0.1918656
+865,Something Just Like This,The Chainsmokers,Happy/Energetic,2,114.08450704225352,0.7875,0.8875,0.2877341
+647,I Could Use a Love Song,Maren Morris,Happy/Energetic,2,92.11267605633802,0.6125,0.5625,0.2273606
+771,I Would Die 4 U,Prince,Calm/Relaxed,1,82.8169014084507,0.5625,0.425,0.07622769
+933,Play That Song,Train,Happy/Energetic,2,109.01408450704226,0.7375,0.8125,0.2877662
+946,Feel Me,Tyga,Sad/Depressed,3,82.8169014084507,0.4,0.425,0.2808542999999999
+562,You Look Good,Lady Antebellum,Happy/Energetic,2,103.94366197183098,0.6875,0.7375,0.2184787
+568,Bad Romance,Lady GaGa,Happy/Energetic,2,120.0,0.825,0.975,0.3075738
+632,At My Best,Machine Gun Kelly,Happy/Energetic,2,112.3943661971831,0.6875,0.8625,0.2951234
+772,Kiss (LP Version),Prince,Happy/Energetic,2,110.70422535211269,0.6125,0.8375,0.2028926
+580,Road Less Traveled,Lauren Alaina,Happy/Energetic,2,111.54929577464787,0.7875,0.85,0.2903120999999999
+713,The Mack,Nevada,Happy/Energetic,2,100.56338028169014,0.7375,0.6875,0.2621735
+730,Regret In Your Tears,Nicki Minaj,Happy/Energetic,2,91.26760563380282,0.575,0.55,0.2322301
+577,Morning Light (The Voice Performance),Laith Al-Saadi,Happy/Energetic,2,97.1830985915493,0.575,0.6375,0.2783225
+825,It Wasn't Me,Shaggy,Happy/Energetic,2,90.4225352112676,0.8375,0.5375,0.1260431
+882,Mr. Brightside,The Killers,Happy/Energetic,2,111.54929577464787,0.6,0.85,0.3052889
+973,PILLOWTALK REMIX,ZAYN,Happy/Energetic,2,92.95774647887325,0.6,0.575,0.2317048
+692,Call Casting,Migos,Happy/Energetic,2,87.88732394366197,0.5125,0.5,0.294504
+779,Creep,Radiohead,Angry/Tense,0,104.7887323943662,0.4125,0.75,0.2037813
+791,Yours If You Want It,Rascal Flatts,Happy/Energetic,2,107.32394366197182,0.7125,0.7875,0.2968977
+749,Not Nice,PARTYNEXTDOOR,Angry/Tense,0,89.5774647887324,0.4875,0.525,0.2438083999999999
+985,Lush Life,Zara Larsson,Happy/Energetic,2,104.7887323943662,0.7,0.75,0.2508899
+608,Help Me Help You,Logan Paul,Happy/Energetic,2,97.1830985915493,0.5625,0.6375,0.2192433
+576,You And I,Lady GaGa,Happy/Energetic,2,102.25352112676056,0.7125,0.7125,0.2640356
+684,Cold Little Heart,Michael Kiwanuka,Sad/Depressed,3,79.43661971830986,0.45,0.375,0.2471268999999999
+752,Bohemian Rhapsody,Panic! At The Disco,Happy/Energetic,2,110.70422535211269,0.7875,0.8375,0.1511857
+650,I Don't,Mariah Carey,Happy/Energetic,2,97.1830985915493,0.5375,0.6375,0.2771107
+688,Bad and Boujee,Migos,Sad/Depressed,3,85.35211267605634,0.4625,0.4625,0.2957862
+624,Fast,Luke Bryan,Happy/Energetic,2,92.95774647887325,0.55,0.575,0.2819886
+674,Froze (feat. Lil Uzi Vert & Nicki Minaj),Nicki Minaj,Sad/Depressed,3,80.28169014084507,0.25,0.3875,0.2733792
+693,Culture,Migos,Angry/Tense,0,94.64788732394366,0.4,0.6,0.3165272999999999
+915,Seven Nation Army,The White Stripes,Happy/Energetic,2,100.56338028169014,0.575,0.6875,0.2397987999999999
+848,Don't Leave,Snakehips,Happy/Energetic,2,102.25352112676056,0.5125,0.7125,0.2830552
+907,Reminder,The Weeknd,Happy/Energetic,2,87.88732394366197,0.5625,0.5,0.2810244
+508,7,Keith Urban,Calm/Relaxed,1,78.59154929577466,0.5375,0.3625,0.2190369
+769,Go Flex,Post Malone,Angry/Tense,0,89.5774647887324,0.475,0.525,0.1734329
+927,Tinashé - Superlove,Tinashe,Happy/Energetic,2,92.11267605633802,0.65,0.5625,0.2056038999999999
+627,Hurricane,Luke Combs,Happy/Energetic,2,95.49295774647888,0.675,0.6125,0.2590051
+602,When Someone Stops Loving You,Little Big Town,Happy/Energetic,2,95.49295774647888,0.5375,0.6125,0.2946770999999999
+638,Light It Up (Remix),Major Lazer,Happy/Energetic,2,106.47887323943662,0.775,0.775,0.2298585
+797,"Rihanna,Lost Kings - Work (Lost Kings Remix)",Rihanna,Happy/Energetic,2,97.1830985915493,0.775,0.6375,0.2027595
+950,Yeah,Usher,Happy/Energetic,2,101.40845070422534,0.6875,0.7,0.2487192
+626,Move,Luke Bryan,Happy/Energetic,2,117.46478873239435,0.775,0.9375,0.3648859
+716,Starboy(Originally Performed ByThe Weeknd Feat. Daft Punk),New Tribute Kings,Happy/Energetic,2,87.88732394366197,0.525,0.5,0.2479694
+777,When Doves Cry (LP Version),Prince,Angry/Tense,0,89.5774647887324,0.475,0.525,0.09245276
+919,Star Of The Show,Thomas Rhett,Happy/Energetic,2,94.64788732394366,0.7375,0.6,0.1995401
+554,First Time,Kygo,Happy/Energetic,2,98.87323943661973,0.65,0.6625,0.2293642
+512,Piece By Piece (Idol Version),Kelly Clarkson,Sad/Depressed,3,75.21126760563381,0.425,0.3125,0.06416427
+573,Poker Face,Lady GaGa,Happy/Energetic,2,105.6338028169014,0.7625,0.7625,0.2763912
+646,80s Mercedes,Maren Morris,Happy/Energetic,2,112.3943661971831,0.7875,0.8625,0.2670272
+651,All I Want For Christmas Is You(Original Version),Mariah Carey,Happy/Energetic,2,109.85915492957749,0.775,0.825,0.1360392
+681,NO,Meghan Trainor,Happy/Energetic,2,108.16901408450704,0.7,0.8,0.276537
+807,Losin Control,Russ,Sad/Depressed,3,76.90140845070422,0.3625,0.3375,0.208492
+676,On The Regular,Meek Mill,Angry/Tense,0,91.26760563380282,0.475,0.55,0.328957
+751,Woke Up Like This,PLAYBOI CARTI,Happy/Energetic,2,93.80281690140843,0.525,0.5875,0.1764586
+935,Goosebumps,Travis Scott,Angry/Tense,0,88.65556978235493,0.386363636364,0.511363636364,0.2817361
+936,Nobody Else But You,Trey Songz,Sad/Depressed,3,81.97183098591549,0.45,0.4125,0.1672762
+957,Pull Up (feat. Lil Uzi Vert),Wiz Khalifa,Angry/Tense,0,89.5774647887324,0.3375,0.525,0.2648047999999999
+511,"Michelle Obama,Kelly Clarkson,Missy Elliott - This Is For My Girls",Michelle Obama,Happy/Energetic,2,100.56338028169014,0.7375,0.6875,0.2465219
+621,7 Years,Lukas Graham,Calm/Relaxed,1,78.59154929577466,0.55,0.3625,0.1068767
+776,Raspberry Beret,Prince,Happy/Energetic,2,97.1830985915493,0.5125,0.6375,0.1108991
+1000,Spring Day,방탄소년단,Happy/Energetic,2,98.87323943661973,0.575,0.6625,0.2813731
+590,XO TOUR Llif3,Lil Uzi Vert,Sad/Depressed,3,85.35211267605634,0.3625,0.4625,0.2856462999999999
+672,Blessed Up,Meek Mill,Angry/Tense,0,91.26760563380282,0.4625,0.55,0.2613008
+904,Nothing Without You,The Weeknd,Happy/Energetic,2,101.40845070422534,0.5625,0.7,0.2294005
+644,You & Me,Marc E. Bassy,Happy/Energetic,2,103.94366197183098,0.7625,0.7375,0.1865602999999999
+574,Lady Gaga - The Cure,Lady Gaga,Happy/Energetic,2,107.32394366197182,0.775,0.7875,0.2983354
+601,One of Those Days,Little Big Town,Happy/Energetic,2,100.56338028169014,0.7,0.6875,0.211644
+964,Everyday We Lit,YFN Lucci,Happy/Energetic,2,90.4225352112676,0.6,0.5375,0.2159828999999999
+560,call the police,LCD Soundsystem,Happy/Energetic,2,98.87323943661973,0.5125,0.6625,0.2058027
+858,All Around You,Sturgill Simpson,Happy/Energetic,2,96.33802816901408,0.6125,0.625,0.2279147
+886,Fairytale Of New York,The Pogues,Happy/Energetic,2,89.5774647887324,0.725,0.525,0.1249329999999999
+609,"Logic,Alessia Cara,Khalid - 1-800-273-8255",Logic,Calm/Relaxed,1,83.66197183098592,0.5125,0.4375,0.2377425
+729,Black Barbies,Nicki Minaj,Angry/Tense,0,89.5774647887324,0.4,0.525,0.265011
+992,JuJu On Dat Beat,Zayion McCall,Sad/Depressed,3,85.35211267605634,0.3625,0.4625,0.08043839
+879,The One,The Chainsmokers,Calm/Relaxed,1,87.04225352112677,0.6375,0.4875,0.2093413999999999
+983,Ain't My Fault,Zara Larsson,Happy/Energetic,2,106.47887323943662,0.5,0.775,0.2948772999999999
+675,Offended (feat. Young Thug & 21 Savage),Meek Mill,Sad/Depressed,3,75.21126760563381,0.3,0.3125,0.2180537
+831,Try Everything,Shakira,Happy/Energetic,2,110.70422535211269,0.9125,0.8375,0.2919616
+885,Hypnotize,The Notorious BIG,Sad/Depressed,3,82.8169014084507,0.4875,0.425,0.1162833
+579,Love,Lana Del Rey,Sad/Depressed,3,71.83098591549296,0.225,0.2625,0.2746373
+970,Pick Up the Phone,Travis Scott,Angry/Tense,0,101.40845070422534,0.4875,0.7,0.2601974999999999
+941,Cancer,Twenty One Pilots,Sad/Depressed,3,62.53521126760563,0.3,0.125,0.04858902
+530,LUST.,Kendrick Lamar,Sad/Depressed,3,74.05889884766198,0.3409090909089999,0.295454545455,0.1384349
+583,The Dance,Lauren Duski,Happy/Energetic,2,88.73239436619718,0.5,0.5125,0.2536381
+740,Song for Another Time,Old Dominion,Happy/Energetic,2,107.8617157490704,0.75,0.7954545454549999,0.2993328
+591,05 You Was Right,Lil Uzi Vert,Sad/Depressed,3,70.98591549295774,0.35,0.25,0.2919032
+853,Call On Me,Starley,Happy/Energetic,2,98.02816901408453,0.625,0.65,0.2201984
+883,Kiss The Sky (feat. Wyclef Jean),Wyclef Jean,Happy/Energetic,2,112.3943661971831,0.725,0.8625,0.2846155
+968,Moolah,Young Greatness,Sad/Depressed,3,87.04225352112677,0.4,0.4875,0.27285
+832,Mercy,Shawn Mendes,Happy/Energetic,2,111.54929577464787,0.625,0.85,0.3264614
+639,Run Up,Major Lazer,Happy/Energetic,2,106.47887323943662,0.6875,0.775,0.3276369
+582,Lauren_Duski_-_Ghost_In_This_House_-_Studio_Version_-_The_Voice_12,Lauren Duski,Calm/Relaxed,1,81.97183098591549,0.5,0.4125,0.2577547
+750,Magnolia,PLAYBOI CARTI,Sad/Depressed,3,81.12676056338029,0.2625,0.4,0.3793413
+654,Uptown Funk,Mark Ronson,Happy/Energetic,2,114.08450704225352,0.875,0.8875,0.1831445
+939,Rock On,Tucker Beathard,Happy/Energetic,2,103.09859154929578,0.6625,0.725,0.2820595999999999
+515,Yeah Boy,Kelsea Ballerini,Happy/Energetic,2,95.49295774647888,0.7875,0.6125,0.2586494
+745,OneRepublic - Wherever I Go (CDQ) (HipHopStoners.com),OneRepublic,Happy/Energetic,2,104.7887323943662,0.6125,0.75,0.2422752
+851,Don't Touch My Hair,Solange,Sad/Depressed,3,85.35211267605634,0.4125,0.4625,0.2742957
+510,Wasted Time,Keith Urban,Happy/Energetic,2,102.25352112676056,0.825,0.7125,0.2096522999999999
+563,Telephone (Feat. Beyonc?,群星쀀,Happy/Energetic,2,103.94366197183098,0.6875,0.7375,0.1655422
+707,I'm Better,Missy Elliott,Sad/Depressed,3,75.21126760563381,0.3,0.3125,0.2255752
+974,Still Got Time,ZAYN,Happy/Energetic,2,96.33802816901408,0.5875,0.625,0.3218152
+673,Blue Notes,Meek Mill,Angry/Tense,0,88.73239436619718,0.2,0.5125,0.1490148999999999
+715,Can You Stand the Rain,New Edition,Calm/Relaxed,1,76.05633802816902,0.525,0.325,0.2020104
+870,Roses,The Chainsmokers,Happy/Energetic,2,98.02816901408453,0.5625,0.65,0.1964943
+496,Fade,Kanye West,Happy/Energetic,2,98.87323943661973,0.5375,0.6625,0.3027236
+598,Battle Symphony,Linkin Park,Happy/Energetic,2,111.54929577464787,0.8125,0.85,0.3182873
+558,iSpy,Kyle,Happy/Energetic,2,91.26760563380282,0.5125,0.55,0.186644
+896,A Lonely Night,The Weeknd,Happy/Energetic,2,105.55697823305916,0.636363636364,0.761363636364,0.2349723
+908,Rockin',The Weeknd,Happy/Energetic,2,104.7887323943662,0.6625,0.75,0.2876619
+951,Hands,Various Artists,Happy/Energetic,2,96.33802816901408,0.75,0.625,0.2169498
+979,My Old Man,Zac Brown Band,Calm/Relaxed,1,78.59154929577466,0.5125,0.3625,0.1429131
+863,Southern Land—Taylor Ray Holbrook & Ryan Upchurch,Taylor Ray Holbrook,Happy/Energetic,2,92.95774647887325,0.625,0.575,0.2439457
+897,Acquainted,The Weeknd,Calm/Relaxed,1,80.28169014084507,0.5625,0.3875,0.1638915
+614,The Night We Met,Lord Huron,Sad/Depressed,3,73.52112676056338,0.4875,0.2875,0.2196904
+876,Paris,The Chainsmokers,Happy/Energetic,2,106.47887323943662,0.775,0.775,0.3116596
+697,T-Shirt,Migos,Angry/Tense,0,101.40845070422534,0.4875,0.7,0.2121791999999999
+770,1999 (LP Version),Prince,Happy/Energetic,2,92.11267605633802,0.6125,0.5625,0.08366792
+823,Bad Liar,Selena Gomez,Happy/Energetic,2,99.71830985915491,0.6625,0.675,0.2471701
+599,Better Man,Little Big Town,Happy/Energetic,2,91.26760563380282,0.55,0.55,0.3309538
+685,Think A Little Less,Michael Ray,Happy/Energetic,2,96.33802816901408,0.7375,0.625,0.2856715
+606,Touch,Little Mix,Happy/Energetic,2,113.2394366197183,0.8,0.875,0.2928183
+830,Me Enamoré,Shakira,Happy/Energetic,2,106.47887323943662,0.6,0.775,0.2505443
+905,Ordinary Life,The Weeknd,Calm/Relaxed,1,86.19718309859155,0.575,0.475,0.2281984
+526,HUMBLE.,Kendrick Lamar,Calm/Relaxed,1,85.35211267605634,0.525,0.4625,0.2691522
+757,"Mary, Did You Know?",Pentatonix,Angry/Tense,0,98.87323943661973,0.375,0.6625,0.2408823
+648,My Church,Maren Morris,Happy/Energetic,2,100.56338028169014,0.7,0.6875,0.2645685
+686,Drinkin' Problem,Midland,Happy/Energetic,2,94.64788732394366,0.725,0.6,0.2447447
+932,Cool Girl,Tove Lo,Happy/Energetic,2,101.40845070422534,0.6625,0.7,0.2433155
+790,I Like The Sound Of That,Rascal Flatts,Happy/Energetic,2,100.56338028169014,0.725,0.6875,0.2406902
+852,Cranes in the Sky,Solange,Sad/Depressed,3,87.04225352112677,0.45,0.4875,0.2297001
+917,"Thomas Rhett,Maren Morris - Craving You",Thomas Rhett,Happy/Energetic,2,103.94366197183098,0.6625,0.7375,0.2368952
+537,Noise,Kenny Chesney,Happy/Energetic,2,105.6338028169014,0.7125,0.7625,0.3216587
+615,Green Light,Lorde,Happy/Energetic,2,103.94366197183098,0.675,0.7375,0.2733239999999999
+711,Sexual,NEIKED,Happy/Energetic,2,89.5774647887324,0.675,0.525,0.1644922999999999
+789,Light of the Seven,Ramin Djawadi,Sad/Depressed,3,77.74647887323943,0.125,0.35,0.05359465
+806,Héroe Favorito,Romeo Santos,Happy/Energetic,2,95.49295774647888,0.725,0.6125,0.2153577
+534,YAH.,Kendrick Lamar,Sad/Depressed,3,65.07042253521126,0.2875,0.1625,0.1929172
+541,Location,Khalid,Sad/Depressed,3,72.67605633802818,0.35,0.275,0.2241344
+700,I Took a Pill In Ibiza,Mike Posner,Sad/Depressed,3,77.74647887323943,0.475,0.35,0.1663004
+971,Gang Up,Young Thug,Happy/Energetic,2,93.80281690140843,0.55,0.5875,0.3175409
+719,Bom Bidi Bom,Nick Jonas,Happy/Energetic,2,89.5774647887324,0.5625,0.525,0.2210324
+889,Spirits,The Strumbellas,Happy/Energetic,2,110.70422535211269,0.75,0.8375,0.3206707
+703,Nothing Is Promised,Mike Will Made-It,Happy/Energetic,2,90.9603072983662,0.545454545455,0.545454545455,0.2774755
+966,Law,Yo Gotti,Angry/Tense,0,92.95774647887325,0.45,0.575,0.2365794
+744,Kids,OneRepublic,Happy/Energetic,2,109.01408450704226,0.725,0.8125,0.244855
+495,Kanye West Ft. Rihanna - Famous (New Version) (CDQ),Kanye West,Angry/Tense,0,110.70422535211269,0.475,0.8375,0.3057296
+544,Picture,Kid Rock,Calm/Relaxed,1,84.50704225352113,0.625,0.45,0.2133019
+892,I Feel It Coming,The Weeknd,Happy/Energetic,2,98.87323943661973,0.65,0.6625,0.2733903
+894,All I Know,The Weeknd,Sad/Depressed,3,79.43661971830986,0.375,0.375,0.2552615
+561,Another Day of Sun,La La Land Cast,Happy/Energetic,2,109.85915492957749,0.8875,0.825,0.222401
+959,X Ambassadors - Unsteady (Erich Lee Gravity Remix),Various Artists,Angry/Tense,0,108.16901408450704,0.45,0.8,0.2501229
+506,Gangsta,Kehlani,Sad/Depressed,3,72.67605633802818,0.375,0.275,0.1248452
+522,ELEMENT.,Kendrick Lamar,Angry/Tense,0,90.4225352112676,0.4625,0.5375,0.2519197999999999
+827,Merry Christmas Everyone,Shakin' Stevens,Happy/Energetic,2,94.64788732394366,0.825,0.6,0.1120825
+862,I'm Still Standing,Taron Egerton,Happy/Energetic,2,114.08450704225352,0.85,0.8875,0.2149166
+611,Everybody,Logic,Angry/Tense,0,99.71830985915491,0.475,0.675,0.1958071
+984,I Would Like,Zara Larsson,Happy/Energetic,2,109.85915492957749,0.7375,0.825,0.258296
+518,LOVE.,Kendrick Lamar,Calm/Relaxed,1,82.8169014084507,0.5125,0.425,0.1581331
+565,A-Yo,Lady Gaga,Happy/Energetic,2,103.09859154929578,0.6375,0.725,0.2018522999999999
+748,Come and See Me,PARTYNEXTDOOR,Sad/Depressed,3,78.59154929577466,0.4625,0.3625,0.1857513999999999
+854,Call on Me,Starley,Happy/Energetic,2,110.70422535211269,0.7875,0.8375,0.2926013
+540,You,Keyshia Cole,Angry/Tense,0,88.73239436619718,0.3875,0.5125,0.2115411
+717,Slow Hands,Niall Horan,Happy/Energetic,2,90.4225352112676,0.6875,0.5375,0.2326491
+810,City Of Stars,Ryan Gosling,Calm/Relaxed,1,81.97183098591549,0.65,0.4125,0.112257
+706,Vice,Miranda Lambert,Calm/Relaxed,1,81.12676056338029,0.6125,0.4,0.2388976
+864,First Day Out,Tee Grizzley,Sad/Depressed,3,87.11907810496902,0.409090909091,0.488636363636,0.2602441
+524,FEEL.,Kendrick Lamar,Angry/Tense,0,88.73239436619718,0.275,0.5125,0.2103554999999999
+550,Everything 1K,Kodak Black,Sad/Depressed,3,83.66197183098592,0.375,0.4375,0.2839920999999999
+666,Places,Martin Solveig,Happy/Energetic,2,99.71830985915491,0.7,0.675,0.2936841
+759,Pen Pineapple Apple Pen,Piko-Taro,Happy/Energetic,2,103.94366197183098,0.8375,0.7375,0.2271513
+962,Look At Me!,XXXTENTACION,Angry/Tense,0,97.1830985915493,0.2,0.6375,0.4484007
+931,LUV,Tory Lanez,Calm/Relaxed,1,83.66197183098592,0.5,0.4375,0.2163737999999999
+523,FEAR.,Kendrick Lamar,Sad/Depressed,3,76.90140845070422,0.3375,0.3375,0.2146748999999999
+765,Feel It Still,Portugal. The Man,Happy/Energetic,2,108.16901408450704,0.7625,0.8,0.2460159
+869,All We Know,The Chainsmokers,Calm/Relaxed,1,84.50704225352113,0.5125,0.45,0.2753572
+953,My PYT,Wale,Calm/Relaxed,1,76.90140845070422,0.55,0.3375,0.1415206
+937,WILD,Troye Sivan,Happy/Energetic,2,94.64788732394366,0.5875,0.6,0.273947
+938,YOUTH,Troye Sivan,Happy/Energetic,2,103.09859154929578,0.75,0.725,0.2508308999999999
+940,Heathens,Twenty One Pilots,Happy/Energetic,2,96.33802816901408,0.5,0.625,0.2273389
+903,Love To Lay,The Weeknd,Happy/Energetic,2,105.6338028169014,0.6,0.7625,0.3033061999999999
+503,Katy Perry - Rise (CDQ),Katy Perry,Angry/Tense,0,95.56978233032112,0.488636363636,0.613636363636,0.2339612
+657,Don't Wanna Know,Maroon 5,Happy/Energetic,2,94.64788732394366,0.5125,0.6,0.1799002
+909,Secrets,The Weeknd,Happy/Energetic,2,109.85915492957749,0.6625,0.825,0.2679119
+637,Cold Water (feat. Justin Bieber & MØ),Major Lazer,Happy/Energetic,2,106.47887323943662,0.65,0.775,0.2430567
+705,Tin Man,Miranda Lambert,Sad/Depressed,3,66.7605633802817,0.4375,0.1875,0.1997321
